@@ -57,22 +57,23 @@
        style="fill:#000094;fill-opacity:1;stroke:#4088d1;stroke-width:0.44976377;stroke-miterlimit:4;stroke-opacity:1"
        d="m 94.285706,109.50504 571.428584,0 0,334.28571 -571.428584,0 z"
        id="rect4062"
-       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-9999&quot;,&quot;param&quot;:&quot;white|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;red|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1241,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Data&quot;}" />
+       inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-9999&quot;,&quot;param&quot;:&quot;white|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;data&quot;:&quot;100&quot;,&quot;param&quot;:&quot;red|none&quot;,&quot;tag&quot;:&quot;TAG1&quot;}]},{&quot;attr&quot;:&quot;opac&quot;,&quot;max&quot;:1241,&quot;min&quot;:0,&quot;tag&quot;:&quot;TAG1&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;set&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Data&quot;}"
+       inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-size:85.33333588px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="271.42856"
-       y="282.36218"
+       x="171.42856"
+       y="270.93362"
        id="text3268"
        sodipodi:linespacing="125%"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;TAG1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan3270"
-         x="271.42856"
-         y="282.36218">texto</tspan><tspan
+         x="171.42856"
+         y="270.93362">textotexto</tspan><tspan
          sodipodi:role="line"
-         x="271.42856"
-         y="389.02884"
+         x="171.42856"
+         y="377.60028"
          id="tspan3272" /></text>
   </g>
 </svg>
