@@ -36,17 +36,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="398.25517"
-     inkscape:cy="149.54075"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="27.262228"
+     inkscape:cy="580.51138"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7798">
     <rdf:RDF>
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,48 +64,48 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#00a0f0;fill-opacity:1;stroke:none"
+       style="fill:#9467bd;fill-opacity:1;stroke:none"
        id="rect9833"
-       width="867.87091"
+       width="1372.6437"
        height="1042.8572"
-       x="-60.364056"
+       x="-568.59186"
        y="1.7907559"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR5&quot;}" />
     <rect
-       style="fill:#a9edc9;fill-opacity:1;stroke:none"
+       style="fill:#d62728;fill-opacity:1;stroke:none"
        id="rect9833-3"
-       width="867.87091"
+       width="1372.6437"
        height="1042.8572"
-       x="-60.396591"
-       y="2.0132449"
+       x="-568.64331"
+       y="2.0132296"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR4&quot;}" />
     <rect
-       style="fill:#e2a0a6;fill-opacity:1;stroke:none"
+       style="fill:#2ca02c;fill-opacity:1;stroke:none"
        id="rect9833-3-5"
-       width="867.87091"
+       width="1372.6437"
        height="1042.8572"
-       x="-60.695389"
+       x="-569.11591"
        y="0.39459261"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR3&quot;}" />
     <rect
-       style="fill:#5d2f6a;fill-opacity:0.704918;stroke:none"
+       style="fill:#ff7f0e;fill-opacity:1;stroke:none"
        id="rect9833-3-5-4"
-       width="867.87091"
+       width="1372.6437"
        height="1042.8572"
-       x="-62.506886"
+       x="-571.98102"
        y="1.6478885"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR2&quot;}" />
     <rect
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR1&quot;}"
        y="1.6478885"
-       x="-62.506886"
+       x="-571.98102"
        height="1042.8572"
-       width="867.87091"
+       width="1372.6437"
        id="rect9916"
-       style="fill:#def15f;fill-opacity:1;stroke:none" />
+       style="fill:#1f77b4;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:0.93989068"
-       d="m -68.839841,1.0898438 0,1045.8879562 882.287121,0 0,-1045.8879562 -70.34573,0 L 528.8203,1046.962 l -310,0 L 4.5390551,1.0898438 Z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m -679.1402,-4.9710716 0,1051.9488716 1589.73034,0 0,-1051.9488716 -126.75097,0 -386.09812,1051.9329716 -558.56693,0 L -546.92399,-4.9710716 Z"
        id="rect9833-8-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
@@ -165,7 +165,7 @@
          x="941.46216"
          y="488.81879">5. Compras Exitosas</tspan></text>
     <rect
-       style="fill:#def15f;fill-opacity:1;stroke:none"
+       style="fill:#1f77b4;fill-opacity:1;stroke:none"
        id="rect10008"
        width="86.873123"
        height="44.446709"
@@ -177,9 +177,9 @@
        height="44.446709"
        width="86.873123"
        id="rect10025"
-       style="fill:#83507c;fill-opacity:1;stroke:none" />
+       style="fill:#ff7f0e;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#e2a0a6;fill-opacity:1;stroke:none"
+       style="fill:#2ca02c;fill-opacity:1;stroke:none"
        id="rect10027"
        width="86.873123"
        height="44.446709"
@@ -191,9 +191,9 @@
        height="44.446709"
        width="86.873123"
        id="rect10029"
-       style="fill:#a9edc9;fill-opacity:1;stroke:none" />
+       style="fill:#d62728;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#00a0f0;fill-opacity:1;stroke:none"
+       style="fill:#9467bd;fill-opacity:1;stroke:none"
        id="rect10031"
        width="86.873123"
        height="44.446709"
