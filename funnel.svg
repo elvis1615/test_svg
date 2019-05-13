@@ -16,7 +16,7 @@
    inkscape:version="0.48+devel "
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
    viewBox="0 0 744.09448 1052.3622"
-   sodipodi:docname="funnel.svg">
+   sodipodi:docname="Funnel.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
