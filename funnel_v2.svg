@@ -36,17 +36,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="27.262228"
-     inkscape:cy="580.51138"
+     inkscape:zoom="0.35"
+     inkscape:cx="1160.362"
+     inkscape:cy="467.35541"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="958"
-     inkscape:window-height="1008"
-     inkscape:window-x="-7"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7798">
     <rdf:RDF>
@@ -68,7 +68,7 @@
        id="rect9833"
        width="1372.6437"
        height="1042.8572"
-       x="-568.59186"
+       x="-50.591858"
        y="1.7907559"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR5&quot;}" />
     <rect
@@ -76,7 +76,7 @@
        id="rect9833-3"
        width="1372.6437"
        height="1042.8572"
-       x="-568.64331"
+       x="-50.643311"
        y="2.0132296"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR4&quot;}" />
     <rect
@@ -84,7 +84,7 @@
        id="rect9833-3-5"
        width="1372.6437"
        height="1042.8572"
-       x="-569.11591"
+       x="-51.115913"
        y="0.39459261"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR3&quot;}" />
     <rect
@@ -92,88 +92,88 @@
        id="rect9833-3-5-4"
        width="1372.6437"
        height="1042.8572"
-       x="-571.98102"
+       x="-53.981018"
        y="1.6478885"
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR2&quot;}" />
     <rect
        inkscape:label="{&quot;attr&quot;:&quot;bar&quot;,&quot;max&quot;:100,&quot;min&quot;:0,&quot;tag&quot;:&quot;VALOR1&quot;}"
        y="1.6478885"
-       x="-571.98102"
+       x="-53.981018"
        height="1042.8572"
        width="1372.6437"
        id="rect9916"
        style="fill:#1f77b4;fill-opacity:1;stroke:none" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m -679.1402,-4.9710716 0,1051.9488716 1589.73034,0 0,-1051.9488716 -126.75097,0 -386.09812,1051.9329716 -558.56693,0 L -546.92399,-4.9710716 Z"
+       d="m -161.1402,-4.9710716 0,1051.9488716 1589.7303,0 0,-1051.9488716 -126.7509,0 -386.09815,1051.9329716 -558.56693,0 L -28.92399,-4.9710716 Z"
        id="rect9833-8-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="941.46216"
+       x="1459.4623"
        y="102.81879"
        id="text9918"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9920"
-         x="941.46216"
+         x="1459.4623"
          y="102.81879">1. Datos</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9988"
        y="202.81879"
-       x="941.46216"
+       x="1459.4623"
        style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"><tspan
          y="202.81879"
-         x="941.46216"
+         x="1459.4623"
          sodipodi:role="line"
          id="tspan10004">2. Buro de Creditos</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="941.46216"
+       x="1459.4623"
        y="302.81879"
        id="text9992"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan9994"
-         x="941.46216"
+         x="1459.4623"
          y="302.81879">3. Opciones de Envío</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9996"
        y="392.81879"
-       x="941.46216"
+       x="1459.4623"
        style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"><tspan
          y="392.81879"
-         x="941.46216"
+         x="1459.4623"
          id="tspan9998"
          sodipodi:role="line">4. Contrato</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="941.46216"
+       x="1459.4623"
        y="488.81879"
        id="text10000"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan10002"
-         x="941.46216"
+         x="1459.4623"
          y="488.81879">5. Compras Exitosas</tspan></text>
     <rect
        style="fill:#1f77b4;fill-opacity:1;stroke:none"
        id="rect10008"
        width="86.873123"
        height="44.446709"
-       x="832.36572"
+       x="1350.3657"
        y="52.189331" />
     <rect
        y="152.18933"
-       x="832.36572"
+       x="1350.3657"
        height="44.446709"
        width="86.873123"
        id="rect10025"
@@ -183,11 +183,11 @@
        id="rect10027"
        width="86.873123"
        height="44.446709"
-       x="832.36572"
+       x="1350.3657"
        y="252.18933" />
     <rect
        y="344.18933"
-       x="832.36572"
+       x="1350.3657"
        height="44.446709"
        width="86.873123"
        id="rect10029"
@@ -197,66 +197,66 @@
        id="rect10031"
        width="86.873123"
        height="44.446709"
-       x="832.36572"
+       x="1350.3657"
        y="434.18933" />
     <text
        sodipodi:linespacing="125%"
        id="text10033"
        y="102.81879"
-       x="2170.9468"
+       x="2688.9468"
        style="font-size:80px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VAL1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          y="102.81879"
-         x="2170.9468"
+         x="2688.9468"
          id="tspan10035"
          sodipodi:role="line">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="2178.8374"
+       x="2696.8374"
        y="202.81879"
        id="text10037"
        sodipodi:linespacing="125%"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VAL2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          id="tspan10039"
          sodipodi:role="line"
-         x="2178.8374"
+         x="2696.8374"
          y="202.81879">2</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10041"
        y="302.81879"
-       x="2177.7827"
+       x="2695.7827"
        style="font-size:80px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VAL3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          y="302.81879"
-         x="2177.7827"
+         x="2695.7827"
          id="tspan10043"
          sodipodi:role="line">3</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:80px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
-       x="2183.4468"
+       x="2701.4468"
        y="392.81879"
        id="text10045"
        sodipodi:linespacing="125%"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VAL4&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan10047"
-         x="2183.4468"
+         x="2701.4468"
          y="392.81879">4</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text10049"
        y="488.81879"
-       x="2177.353"
+       x="2695.353"
        style="font-size:80px;font-style:normal;font-weight:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
        xml:space="preserve"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VAL5&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          y="488.81879"
-         x="2177.353"
+         x="2695.353"
          id="tspan10051"
          sodipodi:role="line">5</tspan></text>
   </g>
