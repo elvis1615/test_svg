@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel "
+   onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
+   viewBox="0 0 744.09448 1052.3622"
+   sodipodi:docname="Funnel_Graph.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-174.57964"
+     inkscape:cy="176.88819"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000094;fill-opacity:1;stroke:#4088d1;stroke-width:0.44976377;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 14.285707,9.5050402 722.857113,0 -272.74119,1042.8571598 -177.37473,0 z"
+       id="rect4062"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d50094;fill-opacity:1;stroke:#4088d1;stroke-width:0.4067561;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 14.326674,9.6531101 722.900136,0 -224.18598,852.9000899 -274.52815,0 z"
+       id="rect4062-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#d5f794;fill-opacity:1;stroke:#4088d1;stroke-width:0.35435566;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 14.300478,8.6827315 722.952522,0 -169.20323,647.2577485 -384.54603,0 z"
+       id="rect4062-4-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#82df69;fill-opacity:1;stroke:#4088d1;stroke-width:0.30504575;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 14.195945,8.066777 723.001855,0 -125.99982,479.621783 -471.00219,0 z"
+       id="rect4062-4-0-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#f2ea6f;fill-opacity:1;stroke:#4088d1;stroke-width:0.22588667;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 13.226088,9.4404354 723.081012,0 -68.15648,262.9678046 -586.768044,0 z"
+       id="rect4062-4-0-3-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="811.85291"
+       y="84.818787"
+       id="text7660"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan7662"
+         x="811.85291"
+         y="84.818787">1. Datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="1512.8068"
+       y="83.012589"
+       id="text7660-3"
+       sodipodi:linespacing="125%"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VALOR1&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan7662-9"
+         x="1512.8068"
+         y="83.012589">valor m 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="812.2619"
+       y="314.17966"
+       id="text7660-9"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan7662-8"
+         x="812.2619"
+         y="314.17966">2. Buro de Creditos</tspan><tspan
+         sodipodi:role="line"
+         x="812.2619"
+         y="376.67966"
+         id="tspan7783" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="1513.2157"
+       y="312.37347"
+       id="text7660-3-2"
+       sodipodi:linespacing="125%"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VALOR2&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan7662-9-6"
+         x="1513.2157"
+         y="312.37347">valor m 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="813.02692"
+       y="532.69727"
+       id="text7660-2"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan7662-5"
+         x="813.02692"
+         y="532.69727">3. Opciones de Envio</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="1513.9807"
+       y="530.89105"
+       id="text7660-3-3"
+       sodipodi:linespacing="125%"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VALOR3&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan7662-9-2"
+         x="1513.9807"
+         y="530.89105">valor m 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="813.43591"
+       y="700.05811"
+       id="text7660-9-9"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan7662-8-3"
+         x="813.43591"
+         y="700.05811">4. Contrato</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="1514.3896"
+       y="698.25189"
+       id="text7660-3-2-2"
+       sodipodi:linespacing="125%"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VALOR4&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan7662-9-6-4"
+         x="1514.3896"
+         y="698.25189">valor m 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="814.03851"
+       y="902.91589"
+       id="text7660-9-9-3"
+       sodipodi:linespacing="125%"
+       inkscape:label=""><tspan
+         sodipodi:role="line"
+         id="tspan7662-8-3-5"
+         x="814.03851"
+         y="902.91589">5. Compras Exitosas</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe MDL2 Assets;-inkscape-font-specification:Segoe MDL2 Assets"
+       x="1514.9923"
+       y="901.10968"
+       id="text7660-3-2-2-9"
+       sodipodi:linespacing="125%"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;VALOR5&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
+         sodipodi:role="line"
+         id="tspan7662-9-6-4-7"
+         x="1514.9923"
+         y="901.10968">valor m 5</tspan></text>
+  </g>
+</svg>
