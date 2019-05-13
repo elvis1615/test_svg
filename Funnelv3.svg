@@ -17,7 +17,7 @@
    inkscape:version="0.48+devel "
    onload="var src; if (document.documentURI) src = document.documentURI; else if (this.getSrc) src = this.getSrc(); else src = document.location.href + ''; try {parent.preload.load(src);}catch(e) {}"
    viewBox="0 0 744.09448 1052.3622"
-   sodipodi:docname="funnel_v2.svg">
+   sodipodi:docname="Funnelv3.svg">
   <defs
      id="defs7795">
     <linearGradient
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
